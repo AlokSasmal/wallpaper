@@ -1,0 +1,37 @@
+span{
+   padding: 50pxp; 
+}
+.pujo{
+background-color: rgb(157, 219, 211);
+}
+.random{
+background-color: rgb(144, 231, 127);
+}
+header{
+ background-color: aquamarine;
+ color: black;
+
+}
+section{
+    background-color:blueviolet ;
+    color: azure;
+}
+#p{
+    background-color: rgb(51, 194, 199);
+    color: rgb(31, 8, 9);
+}
+#r{
+    background-color: aquamarine;
+}
+body{
+    background-color: blanchedalmond;
+    background-image: url("index.jpg");
+}
+#M{
+padding:50px;;
+color: brown;
+}
+#L{
+padding: 50px;
+color: rgb(69, 212, 25);
+}
